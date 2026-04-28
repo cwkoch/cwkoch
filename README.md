@@ -37,4 +37,4 @@ Capstone projects from my AI engineering curriculum will be published here as th
 ---
  
 ## 📫 Connect
-I'm not sure how I feel about publishing my email just like that. I'll get back to this.
+[LinkedIn](https://linkedin.com/in/christian-koch-3214985)
